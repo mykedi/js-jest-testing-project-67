@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/mykedi/js-jest-testing-project-67/workflows/hexlet-check/badge.svg)](https://github.com/mykedi/js-jest-testing-project-67/actions)
